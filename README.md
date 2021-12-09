@@ -5,6 +5,13 @@ https://nekojoker.booth.pm/items/2913843
 
 ## 改訂履歴
 
+### ver 1.1 (2021/12/09)
+
+- Marked.jsのメソッドがmarkedではなく、marked.parseでなければ正常に動作しなくなっていたため修正
+- Prism.jsの読み込みを追記するときに、clipboard.min.jsの追記は不要だったため削除
+- 文言の微修正
+- 著者紹介ページの最新化
+
 ### ver 1.0 (2021/04/25)
 
 初版
