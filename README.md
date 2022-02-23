@@ -5,6 +5,10 @@ https://nekojoker.booth.pm/items/2913843
 
 ## 改訂履歴
 
+### ver 1.2 (2022/2/22)
+
+- .NET 6 に対応
+
 ### ver 1.1 (2021/12/09)
 
 - Marked.jsのメソッドがmarkedではなく、marked.parseでなければ正常に動作しなくなっていたため修正
