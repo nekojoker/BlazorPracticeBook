@@ -4,6 +4,9 @@
 https://nekojoker.booth.pm/items/2913843
 
 ## 改訂履歴
+### ver 2.0 (2023/12/09)
+
+- .NET 8 に対応
 
 ### ver 1.2 (2022/2/22)
 
